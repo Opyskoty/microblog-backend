@@ -6,3 +6,5 @@
 4.  `nodemon`
 
 All routes are prefixed with `/api` so to fetch posts the route is `GET /api/posts`
+
+Deployed via heroku: https://microblog-op.herokuapp.com/
